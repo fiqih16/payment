@@ -10,8 +10,8 @@ github.com/dgrijalva/jwt-go
 
 ## Installation
 
-- `git clone https://github.com/fiqih16/`
-- `cd `
+- `git clone https://github.com/fiqih16/payment`
+- `cd payment`
 - Edit `.env`
   - Set your database connection details
 - `go run main.go`
